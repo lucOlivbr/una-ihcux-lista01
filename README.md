@@ -9,4 +9,4 @@ Aqui estão os comandos que mais utilizei na aula de Terminal:
 
 ## 📸 Evidência de Execução
 ![Foto do meu terminal](./fotodoterminal.png)
-!<img width="1648" height="966" alt="fotodoterminal" src="https://github.com/user-attachments/assets/8c31738d-50aa-481c-9263-8402d443441d" />
+
